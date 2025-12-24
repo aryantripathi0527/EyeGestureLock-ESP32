@@ -24,7 +24,7 @@ By detecting **LEFT** and **RIGHT** eye movements through EOG signals, the syste
    - ❌ Wrong sequence → `ACCESS DENIED` → LED OFF → 🔒 lock icon  
 
 ## 📹 Demo
-Watch the full demo video here: *(attach your LinkedIn video link or upload to GitHub releases)*
+Watch the full demo video here: *(https://drive.google.com/file/d/1ijsNqOarUVtTz0pHW-KL_RIDXcz7eULi/view?usp=sharing)*
 
 ## 💻 Code
 The main Arduino sketch is included in this repository:  
